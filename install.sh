@@ -413,7 +413,7 @@ if command -v apt > /dev/null; then
   esac
   fi
 fi
-break
+
 
 # # Suse Based distro
 # elif command -v zypper > /dev/null
