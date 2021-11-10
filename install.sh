@@ -415,30 +415,30 @@ if command -v apt > /dev/null; then
 fi
 break
 
-# Suse Based distro
-elif command -v zypper > /dev/null
-then
+# # Suse Based distro
+# elif command -v zypper > /dev/null
+# then
 
-break
+# break
 
-# Fedora based distro
-elif command -v dnf > /dev/null
-then
+# # Fedora based distro
+# elif command -v dnf > /dev/null
+# then
 
-break
+# break
 
-# Gentoo derivitave
-elif command -v equo > /dev/null
-then
+# # Gentoo derivitave
+# elif command -v equo > /dev/null
+# then
 
-break
+# break
 
-# The masters of Linux: Gentoo (im sceard of them )
-elif command -v emerge > /dev/null
-then
+# # The masters of Linux: Gentoo (im sceard of them )
+# elif command -v emerge > /dev/null
+# then
 
-break
+# break
 
-# Arch btw chads
-else command -v pacman >/dev/null
-fi
+# # Arch btw chads
+# else command -v pacman >/dev/null
+# fi
