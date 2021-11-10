@@ -408,7 +408,7 @@ if command -v apt > /dev/null; then
     cd gnome-terminal
     ./install.sh
     cd ..&& rm -rf gnome-terminal
-  *)break;
+  *)break;;
   esac
   fi
 fi
